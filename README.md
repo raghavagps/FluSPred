@@ -1,14 +1,14 @@
 # FluSPred
 
+A bioinformatic-ware to predict the zoonotic host tropism of Influenza A virus.
+
 ## Introduction
 FluSPred(Flu Spread Prediction) is a machine learning based tool to predict the zoonotic host tropism of the Influenza A virus with the help of its protein and genome sequences, stating whether a viral strain has the potential to infect human hosts. This was developed to help prioritize high-risk viral strains for future research, aid the study of emergence or the risk a novel influenza virus possesses if it acquires the capability to spread human to human.
 
 ## Web Server
 We are also providing the web-server using which user can directly submit their sequences and can download the predictions in the .csv format. The user can avail the web-server facility at https://webs.iiitd.edu.in/raghava/fluspred 
 
-
-## Standalone 
-
+## Standalone
 ### Download
 - Clone the repo using `git clone https://github.com/Logan1x/FluSPred.git`
 - go into the repository by `cd FluSpred`
