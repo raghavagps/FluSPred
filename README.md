@@ -22,6 +22,15 @@ Alternatively, you can download the zip folder using,
 - See How to Use to find instructions for running the program.
 
 ### How to Use
+
+#### Installing dependencies
+
+Use the command `pip install -r requirements.txt` to install the library dependencies in the terminal. This step will install all required dependencies in your system.
+After this step, your system is ready to run the program.
+
+#### Running the program
+
+
 Run `python main.py -h` for instructions regarding running of the program.
 
 It will output in this,
