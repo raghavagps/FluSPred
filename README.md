@@ -9,6 +9,7 @@ FluSPred(Flu Spread Prediction) is a machine learning based tool to predict the 
 We are also providing the web-server using which user can directly submit their sequences and can download the predictions in the .csv format. The user can avail the web-server facility at https://webs.iiitd.edu.in/raghava/fluspred 
 
 ## Standalone
+To cater to a wider usersbase, and contribute to the scientific community, we have provided an open source standalone tool for FluSPred.
 ### Download
 - Clone the repo using `git clone https://github.com/Logan1x/FluSPred.git`
 - go into the repository by `cd FluSpred`
