@@ -8,6 +8,9 @@ FluSPred(Flu Spread Prediction) is a machine learning based tool to predict the 
 ## Web Server
 We are also providing the web-server using which user can directly submit their sequences and can download the predictions in the .csv format. The user can avail the web-server facility at https://webs.iiitd.edu.in/raghava/fluspred 
 
+## Reference
+Roy et al. (2022) In silico method for predicting infectious strains of influenza A virus from its genome and protein sequences. <a href="https://pubmed.ncbi.nlm.nih.gov/36318663/">J Gen Virol. 2022 Nov;103(11). doi: 10.1099/jgv.0.001802.</a>
+                        <a>
 ## Standalone
 To cater to a wider usersbase, and contribute to the scientific community, we have provided an open source standalone tool for FluSPred.
 ### Download
