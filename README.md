@@ -11,6 +11,15 @@ We are also providing the web-server using which user can directly submit their 
 ## Reference
 Roy et al. (2022) In silico method for predicting infectious strains of influenza A virus from its genome and protein sequences. <a href="https://pubmed.ncbi.nlm.nih.gov/36318663/">J Gen Virol. 2022 Nov;103(11). doi: 10.1099/jgv.0.001802.</a>
                         <a>
+## Pip installation
+The pip version of FluSpread is also available for easy installation and usage of the tool. The following command is required to install the package 
+```
+pip install fluspred
+```
+To know about the available option for the pip package, type the following command:
+```
+fluspred -h
+```
 ## Standalone
 To cater to a wider usersbase, and contribute to the scientific community, we have provided an open source standalone tool for FluSPred.
 ### Download
